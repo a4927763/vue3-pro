@@ -6,11 +6,11 @@ module.exports = {
   
   publicPath: process.env.NODE_ENV === 'production'
   ? '/a4927763/'
-  : '/'
-  
-  // assetsDir: 'static',
-  // parallel: false,
-  // publicPath: './',
+  : '/',
+
+  assetsDir: 'static',
+  parallel: false,
+  publicPath: './',
 
   // configureWebpack :{
   //   performance: {
