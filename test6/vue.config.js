@@ -5,7 +5,7 @@ module.exports = {
   filenameHashing: false,
   
   publicPath: process.env.NODE_ENV === 'production'
-  ? '/a4927763/'
+  ? '/a4927763/test6/dist/index.html'
   : '/test6/dist/static',
 
   assetsDir: 'static',
