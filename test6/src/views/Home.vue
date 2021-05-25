@@ -58,9 +58,10 @@ export default {
     }
 
     function getData (){
-      const url = './data.json'
+      const url = 'https://a4927763.github.io/Service/OpenData/ODwsv/ODwsvTravelFood.aspx'
       // http://localhost:8080/Service/OpenData/ODwsv/ODwsvTravelFood.aspx
       // https://data.coa.gov.tw/
+      // https://a4927763.github.io/
       // http://localhost:8080/
       axios.get(url).then((res) => {
               const json = res.data
