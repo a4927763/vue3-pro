@@ -15,9 +15,9 @@
           </tr>
         </table>
         <h5 style="float:right,"> - 專注每個細節、積極、熱愛自學</h5>
-      </div>
+      </div> 
       <div class="proBlock">
-        <img class="proImg" src="~@/assets/pro.png" alt="">
+        <img class="proImg" src="test6/dist/static/img/pro.png" alt="">
         <img class="proImg" src="~@/assets/pro.png" alt="">
       </div>
     </div>
