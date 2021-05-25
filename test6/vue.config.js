@@ -6,7 +6,7 @@ module.exports = {
   
   publicPath: process.env.NODE_ENV === 'production'
   ? '/a4927763/'
-  : '/',
+  : '/test6/dist/static',
 
   assetsDir: 'static',
   parallel: false,
